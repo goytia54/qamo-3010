@@ -35,4 +35,10 @@
 #### Total df
 * obersvations - 1
 
-### Mean Square
+### Sum of Sqaures (SS)
+#### Regression SS
+* Variation explained by the model.
+#### Residual SS
+* Varation not explained (error)
+#### Total SS
+* Overall variation of the dependent variab;e 
