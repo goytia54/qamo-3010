@@ -87,4 +87,5 @@
 ### Profit-Maximizing Rule
 <img width="1025" height="465" alt="Screenshot 2025-11-08 at 3 13 16 PM" src="https://github.com/user-attachments/assets/55e3f599-eb9a-4181-8e4d-e6fa5e7157d9" />
 
-
+### Interpertation
+* The absolute value of elasticity is compared against a 1 % increase in price shows how much decrease in quantity demand
