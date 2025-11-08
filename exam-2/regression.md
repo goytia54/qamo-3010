@@ -74,11 +74,16 @@
 ### Statisical Signifigance
 #### Step 1: Null Hypothesis
 * For each coefficient we determine 
+
 #### Step 2: t-statistic
 * If the estimated coefficient is many standard errors away from zero, it’s unlikely that the true value is zero.
+* This also requires a table look up to compare agaisnt 
+
 <img width="495" height="81" alt="Screenshot 2025-11-08 at 2 53 52 PM" src="https://github.com/user-attachments/assets/b3c67bff-4cf0-4480-95c5-29105a94d00c" />
+
 #### Step 3: pValue Check
 * both p values are less than 0.05, so if null hypothesis was true we have a low probablity of observing it, thus we can reject it
 
-
+### Profit-Maximizing Rule
+<img width="1025" height="347" alt="Screenshot 2025-11-08 at 3 10 54 PM" src="https://github.com/user-attachments/assets/1e16df27-d76a-49f1-9d96-fd2e0cc7bcb1" />
 
