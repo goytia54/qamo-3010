@@ -71,3 +71,14 @@
 #### Linear Regression
 <img width="495" height="81" alt="Screenshot 2025-11-08 at 2 31 55 PM" src="https://github.com/user-attachments/assets/538f6f82-a8e0-45e6-b0f0-dd407187c011" />
 
+### Statisical Signifigance
+#### Step 1: Null Hypothesis
+* For each coefficient we determine 
+#### Step 2: t-statistic
+* If the estimated coefficient is many standard errors away from zero, it’s unlikely that the true value is zero.
+<img width="495" height="81" alt="Screenshot 2025-11-08 at 2 53 52 PM" src="https://github.com/user-attachments/assets/b3c67bff-4cf0-4480-95c5-29105a94d00c" />
+#### Step 3: pValue Check
+* both p values are less than 0.05, so if null hypothesis was true we have a low probablity of observing it, thus we can reject it
+
+
+
