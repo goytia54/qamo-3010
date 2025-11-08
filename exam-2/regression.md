@@ -69,6 +69,5 @@
   * If positive, as price goes up so does demand 
 
 #### Linear Regression
-
 <img width="495" height="81" alt="Screenshot 2025-11-08 at 2 31 55 PM" src="https://github.com/user-attachments/assets/538f6f82-a8e0-45e6-b0f0-dd407187c011" />
 
