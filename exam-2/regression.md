@@ -85,5 +85,6 @@
 * both p values are less than 0.05, so if null hypothesis was true we have a low probablity of observing it, thus we can reject it
 
 ### Profit-Maximizing Rule
-<img width="1025" height="347" alt="Screenshot 2025-11-08 at 3 10 54 PM" src="https://github.com/user-attachments/assets/1e16df27-d76a-49f1-9d96-fd2e0cc7bcb1" />
+<img width="1025" height="465" alt="Screenshot 2025-11-08 at 3 13 16 PM" src="https://github.com/user-attachments/assets/55e3f599-eb9a-4181-8e4d-e6fa5e7157d9" />
+
 
