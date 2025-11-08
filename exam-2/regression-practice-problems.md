@@ -21,3 +21,10 @@
 
 ### A1.d
 ε=−0.7091​≈−1.41
+
+
+## Question 2
+
+### Q2.a
+* Assuming the marginal cost of this product is $10, what would you suggest as an optimal price
+for this firm to set?
